@@ -1,1 +1,1 @@
-## Collection of commands, instructions etc
+## Collection of tech articles
